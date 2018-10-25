@@ -1,0 +1,11 @@
+generate a random number and declare variable "lottery"
+import scanner
+prompt user to enter a two digit number
+declare variable "guess"
+get digits for the lottery by declaring two variables "lotteryDigit1" "lotteryDigit2" and / one and % the other
+get digits for the guess by declaring two variables "guessDigit1" "guessDigit2" and / one and % the other
+print the actual lottery number
+if statement: if guess matches exactly: you win $10,000
+else if: if you match all digits: you win $3,000
+else if: if you match one digit: you win $1,000
+else: if none match: you win nothing

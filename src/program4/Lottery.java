@@ -14,7 +14,7 @@ public class Lottery {
 
 		// Prompt the user to enter a guess
 		Scanner input = new Scanner(System.in);
-		System.out.println("Enter your lottery pick (two digits); ");
+		System.out.println("Enter your lottery pick (two digits): ");
 		int guess = input.nextInt();
 		
 		
